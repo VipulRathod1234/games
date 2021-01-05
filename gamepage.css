@@ -129,7 +129,10 @@ footer
 }
 
 .xop-img-3 {
-	background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url();
+	background: linear-gradient( rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.10)), url(img/sliderush.jpg);
+	width:100 px;
+    	height:100 px;
+    	background-size: 328px 328px;  
 }
 
 
